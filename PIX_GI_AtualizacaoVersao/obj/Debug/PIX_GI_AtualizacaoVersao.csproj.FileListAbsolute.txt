@@ -1,0 +1,49 @@
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe.config
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csprojAssemblyReference.cache
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.Properties.Resources.resources
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.GenerateResource.cache
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.dll
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.xml
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.CopyComplete
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmVersaoAPI.resources
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmMain.resources
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmDisponibilidade.resources
+C:\Users\ROR\source\repos\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.DAO.Querys.ConexaoBACEN.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe.config
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.dll
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.xml
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.DAO.Querys.ConexaoBACEN.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmDisponibilidade.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmVersaoAPI.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmMain.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.Properties.Resources.resources
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.GenerateResource.cache
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.CoreCompileInputs.cache
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.CopyComplete
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\Autbank\PIX\Ferramenta\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csprojAssemblyReference.cache
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe.config
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.dll
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\YamlDotNet.xml
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.DAO.Querys.ConexaoBACEN.resources
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmDisponibilidade.resources
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmVersaoAPI.resources
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.frmMain.resources
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.Properties.Resources.resources
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.GenerateResource.cache
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.CoreCompileInputs.cache
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.CopyComplete
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.exe
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.pdb
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\Dapper.dll
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\bin\Debug\Dapper.xml
+C:\TFS\Core Banking\PIX_GI_AtualizacaoVersao\PIX_GI_AtualizacaoVersao\obj\Debug\PIX_GI_AtualizacaoVersao.csproj.AssemblyReference.cache

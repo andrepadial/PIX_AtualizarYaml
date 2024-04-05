@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TFS\\Core Banking\\PIX_GI_AtualizacaoVersao\\PIX_GI_AtualizacaoVersao.Model\\PIX_GI_AtualizacaoVersao.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\TFS\\Core Banking\\PIX_GI_AtualizacaoVersao\\PIX_GI_AtualizacaoVersao.Model\\PIX_GI_AtualizacaoVersao.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TFS\\Core Banking\\PIX_GI_AtualizacaoVersao\\PIX_GI_AtualizacaoVersao.Model\\PIX_GI_AtualizacaoVersao.Model.csproj",
+        "projectName": "PIX_GI_AtualizacaoVersao.Model",
+        "projectPath": "C:\\TFS\\Core Banking\\PIX_GI_AtualizacaoVersao\\PIX_GI_AtualizacaoVersao.Model\\PIX_GI_AtualizacaoVersao.Model.csproj",
+        "packagesPath": "C:\\Users\\F000908\\.nuget\\packages\\",
+        "outputPath": "C:\\TFS\\Core Banking\\PIX_GI_AtualizacaoVersao\\PIX_GI_AtualizacaoVersao.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\F000908\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://cdwapp02-rj.modalmais.net.br:8080/nuget": {},
+          "http://tfsprd01-rj01:8080/tfs/Projetos/_packaging/Packages/nuget/v3/index.json": {},
+          "http://tfsprd01-rj01:8080/tfs/Projetos/_packaging/PackagesBanco/nuget/v3/index.json": {},
+          "http://tfsprd01-rj01:8080/tfs/Projetos/_packaging/PackagesCore/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
